@@ -1,5 +1,8 @@
-// Program for Hangman
-// Author: Saira J. Barlas
+/*
+Program for Hangman
+Author: Saira J. Barlas
+Date: 23/11/2012
+*/
 
 #include <stdio.h>
 #include <stdlib.h> // for rand function to work
