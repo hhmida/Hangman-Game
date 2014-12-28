@@ -1,7 +1,7 @@
 /*
 Program for Hangman
 Author: Saira J. Barlas
-Date: 23/11/2012
+Date: 23/11/12
 */
 
 #include <stdio.h>
