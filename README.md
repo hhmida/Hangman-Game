@@ -1,4 +1,1 @@
-Hangman-Game
-============
-
-In C
+in C
