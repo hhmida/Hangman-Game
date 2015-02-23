@@ -1,4 +1,5 @@
 Lives and Guesses
+---
 
 Winning:
 
